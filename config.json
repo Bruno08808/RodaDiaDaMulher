@@ -1,0 +1,18 @@
+{
+  "defaultWheel": {
+    "segments": [
+      { "text": "Caneta", "emoji": "✏️", "emojiSize": 26, "color": "#dd86ca" },
+      { "text": "Voucher", "emoji": "🩷", "emojiSize": 26, "color": "#cc81eb" },
+      { "text": "Voucher", "emoji": "🩷", "emojiSize": 26, "color": "#c16cce" },
+      { "text": "Voucher", "emoji": "🩷", "emojiSize": 26, "color": "#66005c" },
+      { "text": "Mochila", "emoji": "🎒", "emojiSize": 26, "color": "#dd86ca" },
+      { "text": "Voucher", "emoji": "🩷", "emojiSize": 26, "color": "#cc81eb" },
+      { "text": "Voucher", "emoji": "🩷", "emojiSize": 26, "color": "#c16cce" },
+      { "text": "Voucher", "emoji": "🩷", "emojiSize": 26, "color": "#66005c" },
+      { "text": "Porta-chaves", "emoji": "🔑", "emojiSize": 26, "color": "#dd86ca" },
+      { "text": "Voucher", "emoji": "🩷", "emojiSize": 26, "color": "#cc81eb" },
+      { "text": "Voucher", "emoji": "🩷", "emojiSize": 26, "color": "#c16cce" },
+      { "text": "Voucher", "emoji": "🩷", "emojiSize": 26, "color": "#66005c" }
+    ]
+  }
+}
